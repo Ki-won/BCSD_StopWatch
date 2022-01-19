@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_list"
+        android:title="@string/item_button_menu_1"
+        android:icon="@drawable/ic_baseline_view_list_24"
+        />
+
+    <item
+        android:id="@+id/menu_Calculator"
+        android:title="@string/item_button_menu_2"
+        android:icon="@drawable/ic_baseline_calculate_24"
+        />
+    <item
+        android:id="@+id/menu_Stopwatch"
+        android:title="@string/item_button_menu_3"
+        android:icon="@drawable/ic_baseline_stop_circle_24"
+        />
+</menu>

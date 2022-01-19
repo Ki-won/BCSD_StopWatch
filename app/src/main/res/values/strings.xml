@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="item_button_menu_1">menu_list_1</string>
+    <string name="item_button_menu_2">menu_calculator_1</string>
+    <string name="item_button_menu_3">menu_stopwatch</string>
+</resources>
